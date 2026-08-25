@@ -43,3 +43,10 @@ Thumbs.db
 ~$*
 *.backup_*.docx
 *.backup_*.pptx
+
+# 팀 내부 참고/스크래치 자료 — 레포에 올릴 필요 없는 로컬 전용 파일(로컬에는 남겨둠)
+Design Reference/
+docs/superpowers/
+Upload.mov
+인수인계.md
+AJOU_PBL_2차_프로젝트_포트폴리오_참고양식_(배포).pptx
